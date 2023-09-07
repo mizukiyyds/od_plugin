@@ -4,7 +4,7 @@
 
 1、直接提取字符串
 
-[image-20230908013735871](https://github.com/mizukiyyds/od_plugin/tree/main/pic/1.png)
+![image-20230908013735871](https://github.com/mizukiyyds/od_plugin/tree/main/pic/1.png)
 
 2、复制为字符数组
 
