@@ -34,11 +34,12 @@ BYTE array[] = {
 
 4、跟踪至api
 
-使用od trace功能一键跟踪
+使用od trace功能一键跟踪，跟踪完毕后，cpu窗口会自动转到结束位置
 
 ![image-20230908014423476](https://github.com/mizukiyyds/od_plugin/tree/main/pic/3.png)
 
 5、模拟至api
+模拟完毕后，cpu窗口会自动转到结束位置（注意，并不是真实执行到了这里，任何数据都没有发生变化）
 
 ![image-20230908014505568](https://github.com/mizukiyyds/od_plugin/tree/main/pic/4.png)
 
@@ -49,8 +50,11 @@ BYTE array[] = {
 7、修复sp导入表
 
 具体请参考视频或者我发的帖子
+https://www.52pojie.cn/thread-1830972-1-1.html
+https://share.weiyun.com/h1gSqpuG 密码52pj52
 
 8、内存访问分析
+模拟完毕后，cpu窗口会自动转到结束位置（注意，并不是真实执行到了这里，任何数据都没有发生变化）
 
 ![image-20230908014948418](https://github.com/mizukiyyds/od_plugin/tree/main/pic/5.png)
 
