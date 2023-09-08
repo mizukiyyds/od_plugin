@@ -1,3 +1,6 @@
+吾爱破解论坛：https://www.52pojie.cn/thread-1830972-1-1.html
+视频演示：https://share.weiyun.com/h1gSqpuG 密码52pj52
+
 所有操作的记录与结果均在od log窗口查看
 
 #### **数据窗口右键功能**
@@ -50,8 +53,7 @@ BYTE array[] = {
 7、修复sp导入表
 
 具体请参考视频或者我发的帖子
-https://www.52pojie.cn/thread-1830972-1-1.html
-https://share.weiyun.com/h1gSqpuG 密码52pj52
+
 
 8、内存访问分析
 模拟完毕后，cpu窗口会自动转到结束位置（注意，并不是真实执行到了这里，任何数据都没有发生变化）
