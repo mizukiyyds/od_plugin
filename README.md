@@ -1,5 +1,5 @@
 吾爱破解论坛：https://www.52pojie.cn/thread-1830972-1-1.html
-视频演示：https://share.weiyun.com/h1gSqpuG 密码52pj52
+视频演示：https://www.bilibili.com/video/BV1Sh4y1e7kF
 
 
 所有操作的记录与结果均在od log窗口查看
