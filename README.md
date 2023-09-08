@@ -1,6 +1,7 @@
 吾爱破解论坛：https://www.52pojie.cn/thread-1830972-1-1.html
 视频演示：https://share.weiyun.com/h1gSqpuG 密码52pj52
 
+
 所有操作的记录与结果均在od log窗口查看
 
 #### **数据窗口右键功能**
@@ -70,6 +71,6 @@ BYTE array[] = {
 
 10、模拟时hook cpuid
 
-此选项可以控制 3、8选项模拟时的cpuid的返回值
+此选项可以控制 5、8选项模拟时的cpuid的返回值
 
 点取消表示不改变已经设置好的值或默认
